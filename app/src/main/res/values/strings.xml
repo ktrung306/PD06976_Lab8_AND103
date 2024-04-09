@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab8_PD06976_NguyenKhacTrung</string>
+    <string-array name="spinner_price">
+        <item>Ascending</item>
+        <item>Decrease</item>
+
+    </string-array>
+</resources>
